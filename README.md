@@ -16,7 +16,7 @@ Some of the questions asked when working with this dataset:
 
 - How many players have names that start with the letter 'M'?
 - What is the top 10 market value list for players who reside in Europe?
-- Give me a total count of the different types of rounds being held? (e.g. How many rounds were labeled as "Matchdat" vs. "Semi-Finals?)
+- Give me a total count of the different types of rounds being held? (e.g. How many rounds were labeled as "Matchday" vs. "Semi-Finals?)
 - Which club scored the most amount of goals?
 
 ### Functions used in this analysis
@@ -32,3 +32,6 @@ Some of the questions asked when working with this dataset:
 - JOIN: Used the join function to link the primary key to the foreign key.
   - Ex: The 'player_id' is the primary key in the 'players' table which links to the foreign key in the 'appearences' table
 
+### Findings and Results
+- The total number of players that start with the letter 'M' are 3,209
+- Of the total count of the different types of rounds held, Matchday followed by First Round, Second Round, and Third Round
