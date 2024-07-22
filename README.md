@@ -17,4 +17,4 @@ Some of the questions asked when working with this dataset:
 How many players have names that start with the letter 'M'?
 What is the top 10 market value list for players who reside in Europe?
 Give me a total count of the different types of rounds being held? (e.g. How many rounds were labeled as "Matchdat" vs. "Semi-Finals?)
-Which cars are more expensive than $80,000?
+Which club scored the most amount of goals?
